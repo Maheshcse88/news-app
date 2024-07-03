@@ -1,0 +1,26 @@
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.news-item {
+  margin: 20px;
+}
+
+.news-item img {
+  width: 100%;
+  height: auto;
+}
+
+.article-detail img {
+  width: 100%;
+  height: auto;
+}
+
+.home-screen {
+  padding: 20px;
+}
+
+.article-detail {
+  padding: 20px;
+}
